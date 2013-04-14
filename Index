@@ -1,0 +1,119 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Rosewood Bones</title>
+
+<link rel="stylesheet" href="sitestyle.css"
+
+</head>
+
+
+
+
+<div id="wrapper">
+<body>
+
+
+
+
+
+<div class="row1">
+<a href="http://www.facebook.com/rosewoodbonesband">
+<img src="./images/Facebook.bmp"
+</a>
+</div>
+
+
+<div class="row2">
+<a href="http://www.rosewoodbones.bandcamp.com">
+<img src="./images/Bandcamp.jpg"
+alt="Bandcamp" /></a>
+</a>
+</div>
+
+<div class="row3a">
+<a href="https://soundcloud.com/rosewoodbones">
+<img src="./images/Soundcloud.bmp"
+alt="Soundcloud" />
+</a>
+</div>
+
+<div class="row4">
+<a href="./Video.html">
+<img src="./images/Video.jpg"
+alt="Video" />
+</a>
+</div>
+
+<div class="row6">
+<a href="./Tour.html">
+<img src="./images/Tourdates.jpg"
+alt="Tour Dates" />
+</a>
+</div>
+
+
+<div class="row7">
+<ul>
+<img src="./images/Jumbled.bmp"
+onmouseover=this.src='./images/Sorted.bmp'
+onmouseout=this.src='./images/Jumbled.bmp'
+alt="Rosewood Bones" />
+</ul>
+</div>
+
+<div class="row8">
+<a href="./Blog.html">
+<img src="./images/Blog.jpg"
+alt="Tour Dates" />
+</a>
+</div>
+
+<div class="row9">
+<a href="./Links.html">
+<img src="./images/Links.jpg"
+alt="Links" />
+</a>
+</div>
+
+<div class="row10">
+<a href="./JavaGallery.html">
+<img src="./images/Gallery.jpg"
+alt="Gallery" />
+</a>
+</div>
+
+<div class="row11">
+<form action="http://www.cs.tut.fi/cgi-bin/run/~jkorpela/echo.cgi"><font color="FFFFFF">
+  		Mailing List: <input type="text" name="email" value="Your Email" /><br />
+		<input type="submit" value="Go!" />
+		</form>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
